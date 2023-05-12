@@ -1,0 +1,129 @@
+
+
+
+
+
+
+1. Purpose Of The Document
+
+This document is intended to give assistance to people using Next Gen MI platform and should be uned by
+
+all end users looking for information on how to access and use Next Gen M Platform
+
+2. Useful Information
+
+Subject
+
+Browser
+
+Information
+
+For optimal experience, it's recommended to use Google Chrome
+
+Screen Resolution
+
+when accessing Next Gen Mi dashboards
+
+For optimal experience, it's recommended that you use 1920x1080 screen resolution with 75% Browser Zoom level and Landscape
+
+Browser Zoom
+
+Orientation
+
+The dashboard view can be tailored by adjusting the zoom letting on your browser which might be useful if you have a low relation
+
+screen and cannot view the relevant information on one single screen
+
+Responsive Design
+
+Adjusting the size of your browser will automatically resize the
+
+dashboard for an improved user experience
+
+Multiple Sessions
+
+Page Refresh/Caches
+
+Multiple sessions are not possible on the same dashboard
+
+Cache clear is highly recommended as performance may vary
+
+depending on the machine, Internet bandwidth and browser cache
+
+MTD View
+
+memory impacts page behavior.
+
+On MTD View, the prior period is the previous month (MoM change
+
+Le October 2020 and November 2020
+
+OTD View
+
+On QTD View, the prior period is the previous quarter (000 change)
+
+YTD View
+
+1e. August, 2020 and November 2020 On YTD View, the prior period is the previous year (YoY change), Le November 2019 and November 2020
+
+You can find detailed User Recommendations and the list of Known Defects here 
+
+-----_--------_________________
+
+
+
+
+_________________________________
+4. Requesting Access to the Platform
+
+In order to request access to the Next Gen Ml platform, you need to raise a Service Now Request to get yourself added to an Active Directory(AD) Group account.
+
+Each AD Group gives access to users located in different Region and role. Regional User. Regional users only have access to the data which belongs to their region. Global User: Global users have access to all the data on the dashboard coming from all regions
+
+Please follow the following steps in order to be added to an AD group
+
+1. Go to Service Now > Active Directory Account Group Membership-> https://hsbcitid.service now.com/servicenow?id=sc cat item&sys id-3ddef32edb699-9001fc9605/3961974
+
+By default, the form will be populated with:
+
+Your name under 'Who is this for?' Change it if you are raising access request for someone else.
+
+Your line manager's name under 'Approver. It will be changed automatically if you are raising access request for someone else.
+
+RESTRICTED
+________________________
+
+
+
+5. Next Gen MI Platform Overview
+
+5.1
+
+Scope Of The Data in The Dashboards
+
+This dashboard provides users an overview of the health of the bank's key function are based on the performance of the key measurable KPIs against their Targets defined. The Landing page provides health scores between 0-100 for each of the function armas and also an overal health score toned on the performance of all the functions together. This Dashboard is being developed in an Agile manner and will have multiple iterations and will keep on updating via each release.
+
+
+In June release Next Gen MI V2.1), there are 213 KPIs in total sad across Finance, Operations, Credit Risk, Sales Collaboration, Productivity, FTE Distribution. GTRF Product Transaction Control and Branch Utilisation arnes within the scope and form the base of calculating health scores to track functions performance
+
+All of KPIs as part of the scope have been calculated based on Global basis
+
+Types of the Users
+
+There will be 2 type of users in the tool:
+
+Global User: Global users have access to data for all business regions 
+
+Regional User: Regional Users have access to data belongs to their region only .
+
+7. Home Page - Landing Page
+
+When global users log in, you will see the Landing Page for the Global (for all regions and countries), which shows the Year to Date numbers for the information displayed on the screen. (Data from the beginning of the current year to the current date)
+
+When regional users log in, you will see the Landing Page for your Region (for all the countries in your region). which shows the Year to Date numbers for the information displayed on the screen. (Data from the beginning of the current year to the current date)
+
+______________________________
+
+
+
+
